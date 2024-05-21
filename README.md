@@ -20,5 +20,4 @@ I have done some C/C++ all tho I am still learning I am able to create a good am
 # Notes
 
 **KEBAB!!!**
-
-<img alt="Kebab" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fkebab&psig=AOvVaw05xi3x2t2xOiPKdRF1m30v&ust=1716406256750000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjD5du9n4YDFQAAAAAdAAAAABAE" />
+<div style="padding-top:75.314%;position:relative;"><iframe src="https://gifer.com/embed/7341" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
