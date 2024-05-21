@@ -21,4 +21,4 @@ I have done some C/C++ all tho I am still learning I am able to create a good am
 
 **KEBAB!!!**
 
-<img alt="Kebab" src="https://i.gifer.com/7341.gif" />
+<img alt="Kebab" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fkebab&psig=AOvVaw05xi3x2t2xOiPKdRF1m30v&ust=1716406256750000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjD5du9n4YDFQAAAAAdAAAAABAE" />
