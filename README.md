@@ -21,4 +21,4 @@ I have done some C/C++ all tho I am still learning I am able to create a good am
 
 **KEBAB!!!**
 
-<div style="padding-top:75.314%;position:relative;"><iframe src="https://gifer.com/embed/7341" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+<img alt="Kebab" src="https://gifer.com/embed/7341" />
