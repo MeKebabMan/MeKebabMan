@@ -10,7 +10,7 @@
 - mainly uses visual studio code
 - Muslim!
 
-## Knwon Languages 🌠
+## Known Languages 🌠
 ![Static Badge](https://img.shields.io/badge/C%2FC%2B%2B-44%25-brightgreen)
 ![Static Badge](https://img.shields.io/badge/Javascript-70%25-brightgreen)
 ![Static Badge](https://img.shields.io/badge/React-30%25-yellow)
